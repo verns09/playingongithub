@@ -1,0 +1,5 @@
+The caret (^) means the control button.
+
+Name: Veronica
+Program: Psychology
+Language: R
